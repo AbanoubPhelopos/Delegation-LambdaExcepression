@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Delegation.ProblemWithSOLID;
 
-Console.WriteLine("Hello, World!");
+/*
+// solving the problem using OCP
+INotifyMethod method = new NotifyBySms();
+NotificationHandler.SendNotification(method,"hello world ^-^");
+*/
+
+Console.WriteLine("Hello World!");

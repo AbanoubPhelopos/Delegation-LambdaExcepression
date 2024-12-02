@@ -1,0 +1,12 @@
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\bin\Debug\net8.0\Delegation.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\bin\Debug\net8.0\Delegation.dll
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\bin\Debug\net8.0\Delegation.pdb
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.dll
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\refint\Delegation.dll
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\Delegation.pdb
+C:\Users\Abanoub Saweris\RiderProjects\DelegationANDLambdaExpression\Delegation\obj\Debug\net8.0\ref\Delegation.dll
