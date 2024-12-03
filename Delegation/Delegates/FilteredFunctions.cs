@@ -26,6 +26,7 @@ public static class FilteredFunctions
     
     
     
+    
     public static bool TaxGreaterThan(decimal empTax, decimal tax) => empTax < tax;
 
     public static bool TaxLessThan(decimal empTax, decimal tax) => empTax < tax;

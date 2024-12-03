@@ -3,11 +3,11 @@
 namespace TestCode
 {
  
-    /*
+
     // Delegate
     delegate void CalculateDelegate(int num1, int num2);
     delegate int CalculateDelegate2(int num1, int num2);
-    */
+
     
     internal class Program
     {
@@ -64,7 +64,8 @@ namespace TestCode
             // Anonymous Function
             CalculateDelegate del = delegate(int num1, int num2) { Console.WriteLine(num1 + num2); };
             // lambda expression
-            
+            //del = (x,y) => Console.WriteLine(x + y);
+            //CalculateDelegate2 del2 = (x,y)=>(x + y);
             */
             
             
@@ -123,6 +124,7 @@ namespace TestCode
             dlg(num1, num2);
         }
         */
+
     }
 }
 
