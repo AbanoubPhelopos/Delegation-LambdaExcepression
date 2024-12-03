@@ -35,4 +35,4 @@ This project demonstrates the use of delegates in C# to implement filtering and 
 
 
 ## Students Task
-1. **Implement the Filter example using `Built in Delegates ..` 
+1. Implement the Filter example using `Built in Delegates ..` 
